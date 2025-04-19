@@ -18,7 +18,7 @@
 }
 
 body {
-    background-image: url(/Imagens/quatro_casas.webp);
+    background-image: url(imagens/quatro_casas.webp);
     background-size: cover;
     background-attachment: fixed;
 }
